@@ -1,1 +1,1 @@
-### This GitHub directory consists of basic implementaion of a MULTI LAYER PERCEPTRON
+### This GitHub directory consists of basic implementaion of a MULTI LAYER PERCEPTRON Using ANN.
